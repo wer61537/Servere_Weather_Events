@@ -247,7 +247,8 @@ print(crop)
 grid.arrange(totl,prop, crop, nrow=3)
 
 #create table of values
-grid.table(econ2)
+#grid.table(econ2)
+#grid.table(per2.top)
 
 #write.csv(econ2,"c:/coursera/econ2.csv")
 #write.csv(pers2.top,"c:/coursera/pers2.top.csv")

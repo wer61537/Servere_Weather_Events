@@ -311,10 +311,12 @@ Tornadoes are the leading severe weather event causing the 23,965 or 37% of the 
 
 The following graphs show fatalities and injuries for the top 10 severe weather events.  Considering fatalities and injuries separately, the leading cause of fatalities is heat at 26% of the total number of deaths, followed by tornados at 24% and floods at 18%. For injuries alone, tornadoes are the leading events at 39% with floods at 16% and heat at 14%.
 
+#### Figure 1:  Graph of personal costs (deaths and injuries) of severe weather events,
 ![Personal Cost](images/grph_Health_Effects.png)
 
 The following table shows, in decreasing order, fatalaties and injuries by severe weather events.  Of the total number of injuries and deaths, injuries account for 88% and deaths 12%.
 
+#### Table 1:  Top 10 weather events causing deaths or fatalities
 ![Top 10 Personal Cost](images/tbl_health_effect.png)
 
 
@@ -324,12 +326,14 @@ Severe weather events cause damage to agriculture.  Severe weather event floodin
 
 The top 10 severe weather events are shown in the following graphs and table.  
 
+#### Figure 2:  Graph of economic costs (property and crop losses) of severe weather events,
 ![Economic Cost](images/grph_Economic_Cost.png)
 
 For total economic cost, losses due to flooding accounts for 62% of the total $237.6 billion since 1996.  The second event, tropical storms, accounts for 20%.  Looking at each class of loss separately, there are differences in order and contribution.  For property, the values are quite similar to the total economic loss with floods accounting for 64% and tropical storms for 19%.  Property losses account for 92% of the total losses.
 
 Crop losses account for 8% of the total losses.  Floods account for 33% of these losses and tropical storms 30%. Hail and drought are both 9% of the total crop losses,
 
+#### Table 2:  Top 10 weather events causing deaths or fatalities
 ![Top 10 Economic Cost](images/tbl_eco_costs.png)
 
 ## System Information
